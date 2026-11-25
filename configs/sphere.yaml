@@ -16,7 +16,7 @@ trainer:
 
 data:
   name: sphere
-  num_points: 10000
+  num_points: 100000
   batch_size: 1024
   num_workers: 4
   d: 8
